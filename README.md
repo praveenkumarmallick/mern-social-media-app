@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Social Media App</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
 
-        h1, h2, h3 {
-            color: #333;
-        }
-
-        p {
-            color: #555;
-        }
-
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: 'Courier New', monospace;
-        }
-
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        li {
-            margin-bottom: 10px;
-        }
-
-        a {
-            color: #3498db;
-        }
-
-        hr {
-            border: 1px solid #ddd;
-        }
-    </style>
-</head>
-<body>
 
     <h1>Your Social Media App</h1>
 
@@ -100,5 +54,3 @@
 
     <p>Feel free to customize this README to better suit your project. Happy coding!</p>
 
-</body>
-</html>
